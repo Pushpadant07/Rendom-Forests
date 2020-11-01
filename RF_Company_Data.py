@@ -94,4 +94,4 @@ ada.score(x_train,y_train)
 # 100%
 # model is overfitting 
 
-# with by looking at all the above model we can tell that "Bagging model" is gives the good result
+# By looking at all the above model we can tell that "Bagging model" is gives the good result
